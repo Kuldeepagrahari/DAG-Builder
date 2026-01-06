@@ -9,7 +9,8 @@ This project was built as a **Frontend Intern Assignment** and **strictly follow
 
 ## 🎥 Demo & Screenshots
 
-🔴 **Live Demo:** https://your-vercel-link  
+🔴 **Live Demo:** https://promptly-assignment.vercel.app/
+
 📺 **Video Walkthrough:** https://you
 <img width="1910" height="879" alt="image" src="https://github.com/user-attachments/assets/8b59e6cd-7f0c-4973-b9f8-d0352514b1ad" />
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/df3b5557-91eb-4211-ac84-d5328bd110b0" />
