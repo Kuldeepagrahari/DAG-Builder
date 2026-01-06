@@ -1,4 +1,4 @@
-import React, { memo } from 'react';
+import { memo } from 'react';
 import { Handle, Position, type NodeProps } from 'reactflow';
 import { Server } from 'lucide-react'; 
 import './PipelineNode.css'; 

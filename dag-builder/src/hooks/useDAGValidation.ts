@@ -71,9 +71,6 @@ export const useDAGValidation = (nodes: Node[], edges: Edge[]) => {
     // track nodes in current DFS path
     const recursionStack = new Set<string>();
 
-    /**
-     * DFS function to detect cycle
-     */
     const dfs = (nodeId: string): boolean => {
       visited.add(nodeId);
       recursionStack.add(nodeId);
@@ -102,7 +99,7 @@ export const useDAGValidation = (nodes: Node[], edges: Edge[]) => {
         if (dfs(node.id)) {
           return {
             isValid: false,
-            message: "Cycle detected! Cycles are not allowed in a DAG.",
+            message: "Cycle detected! cycles are not allowed in a DAG.",
           };
         }
       }
