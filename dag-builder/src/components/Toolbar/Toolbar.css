@@ -1,0 +1,26 @@
+.toolbar {
+    display: flex;
+    gap: 12px;
+    padding: 12px 20px;
+    background: white;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  
+  .btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+  
+  .btn-primary { background: #0f172a; color: white; }
+  .btn-primary:hover { background: #334155; }
+  
+  .btn-secondary { background: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; }
+  .btn-secondary:hover { background: #e2e8f0; }
