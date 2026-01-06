@@ -160,8 +160,8 @@ Prerequisites
 Node.js v16 or higher
 
 1. Clone the Repository
-git clone https://github.com/your-username/pipeline-editor.git
-cd pipeline-editor
+git clone https://github.com/Kuldeepagrahari/DAG-Builder.git
+cd dag-builder
 
 2. Install Dependencies
 npm install
@@ -179,4 +179,5 @@ React Flow Documentation — https://reactflow.dev/
 Dagre Graph Layout — https://github.com/dagrejs/dagre
 
 Depth First Search (Cycle Detection) — https://en.wikipedia.org/wiki/Depth-first_search
+
 
