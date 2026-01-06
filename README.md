@@ -11,7 +11,8 @@ This project was built as a **Frontend Intern Assignment** and **strictly follow
 
 🔴 **Live Demo:** https://promptly-assignment.vercel.app/
 
-📺 **Video Walkthrough:** https://you
+📺 **Video Walkthrough:** https://www.youtube.com/watch?v=XRc72wFnwKQ
+
 <img width="1910" height="879" alt="image" src="https://github.com/user-attachments/assets/8b59e6cd-7f0c-4973-b9f8-d0352514b1ad" />
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/df3b5557-91eb-4211-ac84-d5328bd110b0" />
 <img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/22b5ae75-06ca-46e3-b5e4-1ec4526a760f" />
@@ -178,3 +179,4 @@ React Flow Documentation — https://reactflow.dev/
 Dagre Graph Layout — https://github.com/dagrejs/dagre
 
 Depth First Search (Cycle Detection) — https://en.wikipedia.org/wiki/Depth-first_search
+
