@@ -178,7 +178,8 @@ React Flow Documentation — https://reactflow.dev/
 
 Dagre Graph Layout — https://github.com/dagrejs/dagre
 
-Depth First Search (Cycle Detection) — https://www.geeksforgeeks.org/dsa/depth-first-search-or-dfs-for-a-graph/
+Depth First Search (Cycle Detection) — https://www.geeksforgeeks.org/dsa/detect-cycle-in-a-graph/
+
 
 
 
