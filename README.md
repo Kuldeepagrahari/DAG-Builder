@@ -22,9 +22,6 @@ This project was built as a **Frontend Intern Assignment** and **strictly follow
 <img width="1916" height="890" alt="image" src="https://github.com/user-attachments/assets/bda19a7b-03d4-4de8-839a-67ff32a4e32b" />
 <img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/378e7d09-6a1a-4827-9e2f-4bdd6728ed29" />
 
-
-*(Add screenshots showing the editor, context menu, validation panel, and auto-layout here)*
-
 ---
 
 ## ✅ Features Implemented
@@ -179,6 +176,7 @@ React Flow Documentation — https://reactflow.dev/
 Dagre Graph Layout — https://github.com/dagrejs/dagre
 
 Depth First Search (Cycle Detection) — https://www.geeksforgeeks.org/dsa/detect-cycle-in-a-graph/
+
 
 
 
